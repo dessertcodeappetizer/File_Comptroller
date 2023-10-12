@@ -1,0 +1,2 @@
+# File_Comptroller
+FILE DUPLICATE FINDER AND MANAGER in Python
